@@ -1,5 +1,10 @@
 # MiniCPM-V2.6-Colaboratory-Sample
 軽量VLMの[MiniCPM-V2.6](https://github.com/OpenBMB/MiniCPM-V)のColaboratoryサンプルです。<br>
+このノートブックでは以下のサンプルを実行できます。
+* 画像認識でのマルチターンチャット
+* 複数画像認識
+* 動画認識
+* コンテキスト内でのフューショット学習
 
 ![image](https://github.com/user-attachments/assets/8fe7fca9-ec48-42a8-8a9d-658be518cdf2)
 
