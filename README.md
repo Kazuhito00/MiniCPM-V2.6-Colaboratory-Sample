@@ -1,6 +1,8 @@
 # MiniCPM-V2.6-Colaboratory-Sample
 軽量VLMの[MiniCPM-V2.6](https://github.com/OpenBMB/MiniCPM-V)のColaboratoryサンプルです。<br>
 
+![image](https://github.com/user-attachments/assets/8fe7fca9-ec48-42a8-8a9d-658be518cdf2)
+
 # Usage
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/MiniCPM-V2.6-Colaboratory-Sample/blob/main/MiniCPM-V2.6-Colaboratory-Sample.ipynb)<br>
 Colaboratoryでノートブックを開き、上から順に実行してください。<br>
