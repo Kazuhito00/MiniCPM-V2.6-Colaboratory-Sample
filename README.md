@@ -14,7 +14,7 @@ Colaboratoryでノートブックを開き、上から順に実行してくだ�
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
 # License 
-MiniCPM-V2.6-Colaboratory-Sample is under [MIT License](LICENSE).
+MiniCPM-V2.6-Colaboratory-Sample is under [Apache 2.0 License](LICENSE).
 
 # Note
 サンプル画像は[ぱくたそ](https://www.pakutaso.com/)様の以下画像を使用しています。
